@@ -1,5 +1,7 @@
 # RelaxYourEyes - Complete Eye Care Application
 
+> 👩‍💻 I'm a **vibe coder** who loves building meaningful, creative solutions. This project was born from that energy — a mix of passion for tech and care for wellness. 🌱
+
 ## 🎯 **What is RelaxYourEyes?**
 
 RelaxYourEyes is a comprehensive eye care application designed to help people maintain healthy vision habits while using digital devices. It provides real-time eye health monitoring, guided exercises, vision therapy, and intelligent break reminders.
