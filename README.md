@@ -8,6 +8,10 @@ RelaxYourEyes is a comprehensive eye care application designed to help people ma
 
 ## ✨ **Key Features**
 
+## 🌐 Live Demo
+👉 [Click here to try RelaxYourEyes](https://jayanthkumarchowdary.github.io/RelaxYourEyes/)
+
+
 ### 🏠 **Dashboard**
 - **Real-time eye health monitoring** with live metrics
 - **Screen time tracking** with intelligent analysis
